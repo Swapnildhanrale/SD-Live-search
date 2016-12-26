@@ -18,5 +18,5 @@
     <?php endif ?>
 <!-- Normal search results code -->
 <?php else : ?>
-    <?php include( get_stylesheet_directory() . '/ult-search.php'); ?>
+    <?php  SD_SEARCH_PLUGIN_DIR . '/ult-search.php'; ?>
 <?php endif ?>

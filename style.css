@@ -58,17 +58,7 @@ li.bsf-list {
 .live-search {
     padding:25px 0;
 }
- #ult_searchform {
-    width: 1170px;
-    margin: 0px auto;
-    max-width: 100%;
-    background:#fff;
-    border:1px solid #d1d1d1;
-    position:relative;
-    -moz-border-radius:99px;
-    -webkit-border-radius:99px;
-    border-radius:99px;
-}
+ 
 .live-search-wrap #s {
     float: left;
     width: 80%;

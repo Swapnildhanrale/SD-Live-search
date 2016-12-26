@@ -9,6 +9,9 @@
   Text Domain: text-domain
 */
 
+define( 'SD_SEARCH_PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
+//define( 'SD_SEARCH_PLUGIN_DIR', plugins_url( '/', __FILE__ ) );
+
 if ( !class_exists( 'ult_live_search' ) ) {
 
     class ult_live_search {
