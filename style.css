@@ -199,3 +199,6 @@ li.bsf-list {
 #secondary.right{
     border-left:1px solid #d1d1d1 !important;
 }
+form#ult_searchform {
+    position: relative;
+}
