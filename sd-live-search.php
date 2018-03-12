@@ -1,7 +1,7 @@
 <?php
 /*
   Plugin Name: SD Live Search
-  Plugin URI: http://ultimate.brainstormforce.com/
+  Plugin URI: http:swapnildhanrale.com
   Description: Easy to Search live.
   Version: 1.0
   Author: Swapnil dhanrale
