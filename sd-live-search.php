@@ -2,8 +2,8 @@
 /*
   Plugin Name: SD Live Search
   Plugin URI: http:swapnildhanrale.com
-  Description: Easy to Search live.
-  Version: 1.0
+  Description: Easy to Search live within site by adding simple shortcode.
+  Version: 1.0.1
   Author: Swapnil dhanrale
   Author URI: http:swapnildhanrale.com
   Text Domain: text-domain
