@@ -5,7 +5,7 @@
   Description: Easy to Search live within site by adding simple shortcode.
   Version: 1.0.1
   Author: Swapnil dhanrale
-  Author URI: http:swapnildhanrale.com
+  Author URI: https://profiles.wordpress.org/swapnild
   Text Domain: text-domain
 */
 
