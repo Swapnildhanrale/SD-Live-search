@@ -4,8 +4,8 @@
   Plugin URI: http://ultimate.brainstormforce.com/
   Description: Easy to Search live.
   Version: 1.0
-  Author: Ultimate Team
-  Author URI: http://ultimate.brainstormforce.com/
+  Author: Swapnil dhanrale
+  Author URI: http:swapnildhanrale.com
   Text Domain: text-domain
 */
 
